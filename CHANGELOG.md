@@ -1,5 +1,11 @@
 # @micoirvin/webflow-dev-starter
 
+## 1.0.2
+
+### Patch Changes
+
+- e88eb7f: partytown added to src
+
 ## 1.0.1
 
 ### Patch Changes
