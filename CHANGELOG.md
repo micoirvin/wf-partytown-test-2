@@ -1,5 +1,11 @@
 # @micoirvin/webflow-dev-starter
 
+## 1.0.4
+
+### Patch Changes
+
+- 20d5e06: add all partytown
+
 ## 1.0.3
 
 ### Patch Changes
