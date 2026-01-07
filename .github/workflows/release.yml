@@ -1,10 +1,10 @@
 name: Release
 
 on:
-  workflow_run:
-    workflows: ['Add Partytown']
-    types:
-      - completed
+  push:
+    branches:
+      - master
+      - main
 
 jobs:
   release:
