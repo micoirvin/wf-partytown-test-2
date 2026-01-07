@@ -1,5 +1,11 @@
 # @micoirvin/webflow-dev-starter
 
+## 1.0.3
+
+### Patch Changes
+
+- acacfd1: build.js include partytown
+
 ## 1.0.2
 
 ### Patch Changes
